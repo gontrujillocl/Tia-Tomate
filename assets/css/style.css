@@ -69,6 +69,139 @@ header {
   white-space: nowrap;
 }
 
+.about {
+  width: 100%;
+  height: auto;
+}
+
+.about__container1 {
+  background-color: #91918d;
+  padding-left: 175px;
+  padding-right: 175px;
+  padding-top: 77px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.about__h3 {
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 30px;
+}
+
+.about__p {
+  color: #fff;
+  text-align: justify;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  width: 550px;
+  margin: auto;
+  line-height: 25px;
+}
+
+.about__container2 {
+  background-color: #fff;
+  padding-left: 175px;
+  padding-right: 175px;
+  padding-top: 77px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.about2__h3 {
+  color: #686963;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+
+.about2__p {
+  color: #686963;
+  text-align: justify;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  width: 550px;
+  margin: auto;
+  line-height: 25px;
+  text-decoration: none;
+}
+
+.about__image {
+  width: 915px;
+  height: auto;
+}
+
+footer {
+  background-color: #686963;
+  padding: 79px 170px 84px;
+  text-align: center;
+}
+
+.footer__logo {
+  width: 198px;
+  height: auto;
+}
+
+.nos {
+  width: 100%;
+  height: auto;
+  padding-bottom: 100px;
+}
+
+.nos__container {
+  background-color: #e56553;
+  padding-top: 67px;
+  padding-bottom: 92px;
+  padding-left: 152px;
+  padding-right: 152px;
+  text-align: center;
+}
+
+.nos__title {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 70px;
+  color: #fff;
+}
+
+.nos__articule {
+  background-color: #fff;
+  padding-top: 84px;
+  padding-left: 280px;
+  padding-right: 280px;
+  text-align: center;
+}
+
+.nos__h3 {
+  color: #686963;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.nos__p {
+  color: #686963;
+  text-align: justify;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  width: 550px;
+  margin: auto;
+  margin-bottom: 50px;
+  line-height: 25px;
+}
+
+.nos__image {
+  width: 364px;
+  height: auto;
+}
+
 .contact {
   width: 100%;
   height: auto;
